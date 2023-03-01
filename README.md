@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suzy969&show_icons=true&count_private=true&title_color=ef99ed&icon_color=ffff66&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" alt="Status Github de suzy969" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzy969&layout=compact&title_color=ef99ed&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzy969&layout=compact&title_color=ef99ed&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" />
 </div>
 
 <div align="center">  
