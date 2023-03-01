@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=B188AF&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Albert+William;Sou+estudante+da+institui%C3%A7%C3%A3o;ETEC+Dr+J%C3%BAlio+Cardoso;Atualmente+fa%C3%A7o+Desenvolvimento+de+Sistemas;estou+no+2%2F3+ano+de+curso;seja+bem+vindo!)](https://git.io/typing-svg)
 
@@ -34,4 +34,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{suzy969}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=footer"/>
