@@ -13,7 +13,6 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/brutal.angel19._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Discord-%235865f2?style=for-the-badge&logo=discord&logoColor=white"</a>
 </div> 
  
 ##
@@ -43,7 +42,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{uEriic}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{suzy969}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd700&height=120&section=footer"/>
