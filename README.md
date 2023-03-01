@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=B188AF&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Albert+William+tenho+17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Fa%C3%A7o+curso+t%C3%A9cnico+na+ETEC+Dr+J%C3%BAlio+Cardoso;Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=B188AF&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Albert+William%2C+tenho+17+anos;Estudante+de+Desenvolvimento+de+Sistemas;Fa%C3%A7o+curso+t%C3%A9cnico+na+ETEC+Dr+J%C3%BAlio+Cardoso;Seja+bem-vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suzy969&show_icons=true&count_private=true&title_color=ef99ed&icon_color=ffff66&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" alt="Status Github de suzy969" /> 
