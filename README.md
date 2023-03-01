@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Albert+William;Sou+estudante+da+institui%C3%A7%C3%A3o;ETEC+Dr+J%C3%BAlio+Cardoso;Atualmente+fa%C3%A7o+Desenvolvimento+de+Sistemas;estou+no+2%2F3+ano+de+curso;seja+bem+vindo!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=uEriic&show_icons=true&count_private=true&title_color=ffd700&icon_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700" alt="Status Github de uEriic" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suzy969&show_icons=true&count_private=true&title_color=ffd700&icon_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700" alt="Status Github de uEriic" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uEriic&layout=compact&title_color=ffff66&text_color=ffff99&bg_color=000015&border_color=ffd700" />
 </div>
 
