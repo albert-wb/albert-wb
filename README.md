@@ -2,27 +2,42 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=B188AF&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Albert+William%2C+tenho+18+anos;Estudante+de+Desenvolvimento+de+Sistemas;Fa%C3%A7o+curso+t%C3%A9cnico+na+ETEC+Dr+J%C3%BAlio+Cardoso;Seja+bem-vindo!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suzy969&show_icons=true&count_private=true&title_color=ef99ed&icon_color=ffff66&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" alt="Status Github de suzy969" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzy969&layout=compact&title_color=ef99ed&text_color=ef99ed&bg_color=22202A&border_color=E1EFF6" />
-</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
 
-<div align="center">  
-<a href="https://www.instagram.com/brutal.angel19._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+## Estudando 📚
+- Desenvolvimento de Sistema, /n ETEC Dr Júlio Cardoso 📓
+
+    </td>
+    <td valign="top" width="50%">
+
+<br>
+
+![Albert William](https://github-readme-stats.vercel.app/api?username=albert-wb&show_icons=true&theme=vue&count_private=true)
+    
+  </tr>
+</table>
  
 ##
 
 ### 👨‍🎓 -> Habilidades Principais:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 ### ⚒️ -> Ferramentas que eu uso:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+## Contato 👤
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xxxxxxxxxxxxxxxx/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxxxxxxxxxx@naosei.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/xxxxxxxxxxxxxxx)
 
 ##
 
