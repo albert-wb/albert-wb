@@ -7,7 +7,7 @@
     <td valign="top" width="50%">
 
 ## Estudando 📚
-- Desenvolvimento de Sistema, /n ETEC Dr Júlio Cardoso 📓
+- Desenvolvimento de Sistema, ETEC Dr Júlio Cardoso 📓
 
     </td>
     <td valign="top" width="50%">
