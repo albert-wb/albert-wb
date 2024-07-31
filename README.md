@@ -40,11 +40,30 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxxxxxxxxxx@naosei.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/xxxxxxxxxxxxxxx)
 
-##
+###
+
+<h3 align="left"> Meus dados :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albert-wb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&order=2&exclude_repo=might-log,study-bot#gh-dark-mode-only" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=albert-wb&locale=en&mode=weekly&theme=synthwave&hide_border=true&border_radius=8&order=3" height="150" alt="streak graph#gh-dark-mode-only"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/albert-wb/freitaseric/output/snake.svg"  />
+</div>
+
+###
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{suzy969}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{albert-wb}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=footer"/>
