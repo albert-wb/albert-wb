@@ -56,7 +56,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/albert-wb/freitaseric/output/snake.svg"  />
+  <img height="200" src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/snake.svg"  />
 </div>
 
 ###
