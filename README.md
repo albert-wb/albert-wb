@@ -48,19 +48,19 @@
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://linkedin.com/in/albert-william-76735024a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
+  <a href="mailto:adwilliam.rossi021005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://instagram.com/SEU-USUARIO-AQUI" target="_blank">
+  <a href="https://instagram.com/01.17hr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 <div align="center">
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)  
+  ![snake animation](https://github.com/<albert-wb>/<albert-wb>/blob/output/github-contribution-grid-snake2.svg)  
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=87CEEB&height=120&section=footer"/>
