@@ -60,7 +60,7 @@
 </p>
 
 <div align="center">
-  ![snake animation](https://github.com/<albert-wb>/<albert-wb>/blob/output/github-contribution-grid-snake2.svg)  
+  <img src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=87CEEB&height=120&section=footer"/>
