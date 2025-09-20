@@ -1,59 +1,66 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=87CEEB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=1000&color=B188AF&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Albert+William%2C+tenho+19+anos;Estudante+de+Desenvolvimento+de+Sistemas;No+curso+t%C3%A9cnico+da+ETEC+Dr+J%C3%BAlio+Cardoso;Seja+bem-vindo!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=87CEEB&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Albert+William;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Entusiasta+de+Python+%26+Games;Sempre+aprendendo+algo+novo!" alt="Animação de Digitação">
+  </a>
+</div>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h2 align="left">👋 Sobre Mim</h2>
+      <p align="left">
+        👨‍💻 Olá! Sou um estudante de <strong>Desenvolvimento de Sistemas</strong> na ETEC, focado em construir uma base sólida em programação e resolução de problemas.<br><br>
+        📚 Atualmente, estou aprofundando meus conhecimentos em <strong>Python</strong> e explorando o universo do desenvolvimento web com <strong>HTML, CSS e JavaScript</strong>.<br><br>
+        🎮 Nas horas vagas, gosto de colocar a criatividade em prática desenvolvendo pequenos jogos com <strong>GameMaker</strong>, unindo lógica e diversão.<br><br>
+        🚀 Busco oportunidades para colaborar em projetos e transformar ideias em realidade.
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=albert-wb&show_icons=true&theme=catppuccin&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Albert William"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  Um entusiasta de tecnologia e estudante de Desenvolvimento de Sistemas, apaixonado por resolver problemas e criar soluções inovadoras.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,figma,vscode,git,github,gamemaker&perline=5" alt="Ícones de Tecnologias"/>
+  </a>
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas Adicionais</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=albert-wb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&layout=compact&langs_count=7&theme=catppuccin&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=albert-wb&theme=catppuccin&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak de Contribuições"/>
 </div>
 
 ---
 
-### 🚀 Habilidades & Ferramentas
-
+<h2 align="center">📫 Conecte-se Comigo</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/GameMaker_Language-000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker Language"/>
-  <br>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/GameMaker-000000.svg?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker"/>
-</p>
-
----
-
-### 📫 Como me encontrar (Em Breve)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/xxxxxxxxxxxxxxxx/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:xxxxxxxxxxx@naosei.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://wa.me/xxxxxxxxxxxxxxx" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://instagram.com/SEU-USUARIO-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/snake.svg" alt="snake" />
-  <br><br>
-  <p><b>Contador de Visitantes</b></p>
-  <img src="https://profile-counter.glitch.me/{albert-wb}/count.svg" />
+  <img src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/snake.svg" alt="Snake Game de Contribuições" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22202A&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=87CEEB&height=120&section=footer"/>
