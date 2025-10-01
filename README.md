@@ -41,8 +41,8 @@
 <h2 align="center">📊 Estatísticas Adicionais</h2>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&bg_color=#212120&layout=compact&langs_count=7&theme=shadow_red&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=albert-wb&bg_color=#212120&theme=shadow_red&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak de Contribuições"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&layout=compact&langs_count=7&theme=shadow_red&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=albert-wb&theme=shadow_red&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak de Contribuições"/>
 </div>
 
 ---
