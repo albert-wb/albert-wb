@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=87CEEB&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Albert+William;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Entusiasta+de+Python+%26+Games;Sempre+aprendendo+algo+novo!" alt="Animação de Digitação">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=#212120&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Albert+William;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Entusiasta+de+Python+%26+Games;Sempre+aprendendo+algo+novo!" alt="Animação de Digitação">
   </a>
 </div>
 
@@ -41,8 +41,8 @@
 <h2 align="center">📊 Estatísticas Adicionais</h2>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&layout=compact&langs_count=7&theme=catppuccin&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=albert-wb&theme=catppuccin&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak de Contribuições"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-wb&bg_color=#212120&layout=compact&langs_count=7&theme=catppuccin&hide_border=true&border_radius=10" alt="Linguagens mais usadas"/>
+  <img height="170em" src="https://streak-stats.demolab.com?user=albert-wb&bg_color=#212120&theme=catppuccin&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="Streak de Contribuições"/>
 </div>
 
 ---
