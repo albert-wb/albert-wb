@@ -11,9 +11,10 @@
     <td valign="top" width="60%">
       <h2 align="left">👋 Sobre Mim</h2>
       <p align="left">
-        👨‍💻 Olá! Sou um estudante de <strong>Desenvolvimento de Sistemas</strong> na ETEC, focado em construir uma base sólida em programação e resolução de problemas.<br><br>
+        👨‍💻 Olá! Sou um estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> na FATEC, focado em construir uma base sólida em programação e resolução de problemas.<br><br>
         📚 Atualmente, estou aprofundando meus conhecimentos em <strong>Python</strong> e explorando o universo do desenvolvimento web com <strong>HTML, CSS e JavaScript</strong>.<br><br>
-        🎮 Nas horas vagas, gosto de colocar a criatividade em prática desenvolvendo pequenos jogos com <strong>GameMaker</strong>, unindo lógica e diversão.<br><br>
+        🎮 Nas horas vagas, gosto de colocar a criatividade em prática desenvolvendo pequenos jogos e extensões com <strong>GameMakerLanguage</strong> e <strong>JavaScript</strong>,<br><br>
+        unindo lógica e diversão.<br><br>
         🚀 Busco oportunidades para colaborar em projetos e transformar ideias em realidade.
       </p>
     </td>
