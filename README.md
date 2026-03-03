@@ -16,7 +16,7 @@
     <tr>
       <td valign="center" width="60%">
         <p>
-           🎓 <strong>Estudante de Desenvolvimento de Software Multiplataforma (FATEC)</strong><br>
+           🎓 <strong>Estudante de Ciência da Computação (UNIFRAN)</strong><br>
            Focado em criar bases sólidas em lógica e arquitetura de software.
         </p>
         <p>
