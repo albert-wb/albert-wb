@@ -1,84 +1,93 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF2D55&height=130&section=header&text=Albert%20William&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-  
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=580&lines=Ol%C3%A1%2C+eu+sou+o+Albert+William;Dev+Multiplataforma+em+Forma%C3%A7%C3%A3o;F%C3%A3+de+Python+e+GameDev;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=FF2D55&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Albert+William+👋;Estudante+de+Ciência+da+Computação;Entusiasta+de+Python+%26+GameDev;Construindo+uma+base+sólida+em+CS" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=albert-wb&label=VISITAS&color=8B0000&style=flat-square" alt="Visitas"/>
+
 </div>
 
-<div align="center">
-  
-  ---
-  
-  ### 👋 Sobre Mim
+---
 
-  <table border="0">
-    <tr>
-      <td valign="center" width="60%">
-        <p>
-           🎓 <strong>Estudante de Ciência da Computação (UNIFRAN)</strong><br>
-           Focado em criar bases sólidas em lógica e arquitetura de software.
-        </p>
-        <p>
-           💻 <strong>O que estou estudando:</strong><br>
-           Aprofundando em <code>Python</code> e explorando o ecossistema Web (<code>HTML/CSS/JS</code>).
-        </p>
-        <p>
-           🎮 <strong>Hobby & Criatividade:</strong><br>
-           Nas horas vagas, crio jogos e extensões usando <strong>GameMaker</strong> e <strong>JavaScript</strong>.
-        </p>
-        <p>
-           🚀 <strong>Objetivo:</strong><br>
-           Busco oportunidades para colaborar em projetos e transformar ideias em realidade.
-        </p>
-      </td>
-      <td valign="center" width="40%">
-        <div align="center">
-          <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 👨‍💻 Sobre Mim
+
+🎓 **Estudante de Ciência da Computação — UNIFRAN**
+Construindo bases sólidas em lógica, algoritmos e arquitetura de software.
+
+💻 **Estudando agora:**
+`Python` · `HTML/CSS/JS` · estruturas de dados e fundamentos de CS.
+
+🎮 **Hobby & Criatividade:**
+Nas horas vagas, desenvolvo jogos e extensões usando **GameMaker** e **JavaScript**.
+
+🚀 **Objetivo:**
+Colaborar em projetos reais e transformar ideias em código.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-  ### 🛠️ Arsenal Tecnológico
-  
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,gamemaker&theme=dark" alt="Linguagens" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,gamemaker&theme=dark&perline=5" alt="Linguagens" />
 
-  ---
+<br/>
 
-  ### 🏆 Conquistas & Atividade
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=albert-wb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Troféus" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=albert-wb&label=VISUALIZA%C3%87%C3%95ES&color=00BFFF&style=for-the-badge" alt="Contador de Visitas" />
-
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/snake.svg" alt="Snake animation" width="100%"/>
-
-  ---
-
-  ### 📫 Vamos nos conectar?
-
-  <a href="https://linkedin.com/in/albert-william-76735024a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:adwilliam.rossi021005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://instagram.com/01.17hr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" alt="Ferramentas" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer"/>
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=albert-wb&bg_color=0d1117&color=FF6B6B&line=FF2D55&point=ffffff&area=true&area_color=8B0000&hide_border=false&border_color=FF2D55&radius=10" alt="Activity Graph"/>
+
+</div>
+
+<div align="center">
+
+<img width="55%" src="https://streak-stats.demolab.com/?user=albert-wb&theme=dark&background=0d1117&ring=FF2D55&fire=FF6B6B&currStreakLabel=FF2D55&sideLabels=c9d1d9&dates=8b8b8b&border=FF2D55&border_radius=10" alt="Streak Stats"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/albert-wb/albert-wb/output/snake.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/albert-william-76735024a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:adwilliam.rossi021005@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/kimmorc" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D55,100:8B0000&height=100&section=footer"/>
