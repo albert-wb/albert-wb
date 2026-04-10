@@ -1,9 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF2D55&height=130&section=header&text=Albert%20William&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<pre>
+                                               ,--,                                               ,----,
+                                            ,---.'|                                             ,'   .`|
+          :.                   ,---,        |   | :        ,---,.      ,---,. -.----.         ,`   .'  :        `      .
+                    --        '  .' \       :   : |      ,'  .'  \   ,'  .' | /    /  \     ;     '    /
+        .                    /  ;    '.     |   ' :    ,---.' .' | ,---.'   | ;   :    \  .'___,/    ,'         -              :3
+                      '     :  :       \    ;   ; '    |   |  |: | |   |   .' |   | .\ :  |    :     |
+                            :  |   /\   \   '   | |__  :   :  :  / :   :  |-, .   : |: |  ;    |.';  ;              '.
+-           .:              |  :  ' ;.   :  |   | :.'| :   |    ;  :   |  ;/| |   |  \ :  `----'  |  |      `
+                            |  |  ;/  \   \ '   :    ; |   :     \ |   :   .' |   : .  /      '   :  ;                      '
+  '                         '  :  | \  \ ,' |   |  ./  |   |   . | |   |  |-, ;   | |  \      |   |  '        :
+                            |  |  '  '--'   ;   : ;    '   :  '; | '   :  ;/| |   | ;\  \     '   :  |                  '           
+  -.            .           |  :  :         |   ,/     |   |  | ;  |   |    | :   ' | \.'     ;   |.'      .
+                            |  | ,'         '---'      |   :   /   |   :   .' :   : :-'       '---'
+                            `--''                      |   | ,'    |   | ,'   |   |.'
+            '                                          `----'      `----'     `---'
+</pre>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=FF2D55&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Albert+William+👋;Estudante+de+Ciência+da+Computação;Entusiasta+de+Python+%26+GameDev;Construindo+uma+base+sólida+em+CS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?f=JetBrains+Mono&weight=700&size=20&duration=3500&pause=1000&color=FF2D55&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Albert+William+ont👋;Estudante+de+Ciência+da+Computação;Entusiasta+de+Python+%26+GameDev;Construindo+uma+base+sólida+em+CS" alt="Typing SVG" />
 </a>
 
 <br/>
