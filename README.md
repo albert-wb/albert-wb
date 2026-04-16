@@ -39,7 +39,7 @@ Construindo bases sólidas em lógica, algoritmos e arquitetura de software.
 `Python` · `HTML/CSS/JS` · estruturas de dados e fundamentos de CS.
 
 🎮 **Hobby & Criatividade:**
-Nas horas vagas, desenvolvo jogos e extensões usando **GameMaker** e **JavaScript**.
+Nas horas vagas, desenvolvo jogos, extensões e softwares usando **GameMaker**, **JavaScript** e **Python**.
 
 🚀 **Objetivo:**
 Colaborar em projetos reais e transformar ideias em código.
