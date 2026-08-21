@@ -60,22 +60,6 @@ Colaborar em projetos reais e transformar ideias em código.
 
 ---
 
-## 📊 Atividade
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=albert-wb&bg_color=0d1117&color=FF6B6B&line=FF2D55&point=ffffff&area=true&area_color=8B0000&hide_border=false&border_color=FF2D55&radius=10" alt="Activity Graph"/>
-
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://streak-stats.demolab.com/?user=albert-wb&theme=dark&background=0d1117&ring=FF2D55&fire=FF6B6B&currStreakLabel=FF2D55&sideLabels=c9d1d9&dates=8b8b8b&border=FF2D55&border_radius=10" alt="Streak Stats"/>
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
