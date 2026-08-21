@@ -36,7 +36,7 @@
 Construindo bases sólidas em lógica, algoritmos e arquitetura de software.
 
 💻 **Estudando agora:**
-`Python` · `Doker/Linux/BurpSuite` · estruturas de dados e fundamentos de CS.
+`Python` · `Docker/Linux/BurpSuite` · estruturas de dados e fundamentos de CS.
 
 🎮 **Hobby & Criatividade:**
 Nas horas vagas, desenvolvo jogos, extensões e softwares usando **GameMaker**, **JavaScript** e **Python**.
@@ -50,11 +50,11 @@ Colaborar em projetos reais e transformar ideias em código.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,doker,blender,linux&theme=dark&perline=8" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,docker,blender,linux&theme=dark&perline=8" alt="Linguagens" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,figma,obsidian&theme=dark&perline=8" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian&theme=dark&perline=8" alt="Ferramentas" />
 
 </div>
 
