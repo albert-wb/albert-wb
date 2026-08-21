@@ -50,11 +50,11 @@ Colaborar em projetos reais e transformar ideias em código.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,doker,blender,linux&theme=dark&perline=5" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,doker,blender,linux&theme=dark&perline=8" alt="Linguagens" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,figma,obsidian&theme=dark&perline=4" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,figma,obsidian&theme=dark&perline=8" alt="Ferramentas" />
 
 </div>
 
