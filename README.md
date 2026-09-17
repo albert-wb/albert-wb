@@ -30,19 +30,16 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 🎓 **Estudante de Ciência da Computação — UNIFRAN**
 Construindo bases sólidas em lógica, algoritmos e arquitetura de software.
 
 💻 **Estudando agora:**
-`Python` · `Docker/Linux/BurpSuite` · estruturas de dados e fundamentos de CS.
+`Python` · `Docker/Linux/BurpSuite` · `Adversarial Attacks & Red Team` · estruturas de dados e fundamentos de CS.
 
 🎮 **Hobby & Criatividade:**
 Nas horas vagas, desenvolvo jogos, extensões e softwares usando **GameMaker**, **JavaScript** e **Python**.
-
-🚀 **Objetivo:**
-Colaborar em projetos reais e transformar ideias em código.
 
 ---
 
