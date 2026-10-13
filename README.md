@@ -24,8 +24,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=albert-wb&label=VISITAS&color=8B0000&style=flat-square" alt="Visitas"/>
-
 </div>
 
 ---
