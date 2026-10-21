@@ -45,11 +45,7 @@ Nas horas vagas, desenvolvo jogos, extensões e softwares usando **GameMaker**, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,docker,blender,linux&theme=dark&perline=8" alt="Linguagens" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian&theme=dark&perline=8" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=python,js,docker,linux,obsidian&theme=dark&perline=8" alt="Linguagens" />
 
 </div>
 
